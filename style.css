@@ -1,0 +1,67 @@
+
+
+body{
+    background-image: url(.//img/mum.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position-y:center;
+    height: 80vh;
+    
+}
+
+#hesapM{
+    /* border: 10px solid #eeeeee; */
+    /* margin: 50px 606px; */
+    margin-top: 4%;
+    margin-left: 36%;
+    height: auto ;
+    width: 400px;
+    background-color: #000000;
+    /* border: 20px solid #f8ab03 ; */
+    border-radius: 5px;
+    padding: 10px;
+}
+#gösterge{
+    
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+
+}
+
+#sonuc{
+    color: #f8ab03;
+    border: 5px solid  #f8ab03;
+    padding: 10px;
+    border-radius: 10px;
+    width: 80%;
+    text-align: right;
+    word-wrap: break-word;
+    font-size: 30px;
+}
+
+button{
+font-size: 30px;
+font-weight: 600;
+color: rgb(253, 137, 5);
+width: 80px;
+height: 50px;
+margin: 4px;
+border-radius: 30px;
+background-color:#050505 ;
+outline: none;
+}
+
+#butonlar{
+    text-align: center;
+    background-color: #000000;
+}
+button:hover{
+    color: #050505;
+    transition: 0.1s;
+}
+.akıs{
+    margin: 0;
+    /* background-color: antiquewhite; */
+    font-size: 50px;
+    color:#f8ab03 ;
+}
